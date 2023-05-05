@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
-		template: "%s | chronark.com",
+		default: "blaze2004.me",
+		template: "%s | blaze2004.me",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "Software engineer at finobird.in and founder of visualbrahma.tech",
 	openGraph: {
-		title: "chronark.com",
+		title: "blaze2004.me",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"Software engineer at finobird.in and founder of visualbrahma.tech",
+		url: "https://blaze2004.me",
+		siteName: "blaze2004.me",
 		images: [
 			{
-				url: "https://chronark.com/og.png",
+				url: "https://blaze2004.me/og.png",
 				width: 1920,
 				height: 1080,
 			},
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "Blaze06112004",
 		card: "summary_large_image",
 	},
 	icons: {
